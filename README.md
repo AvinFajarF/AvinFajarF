@@ -7,7 +7,7 @@ Back End Devoloper
 
 --------
 
-Hello my name is Avin, I'm learning Java and making rest api.
+a child who aspires to become a CyberSecurity Engineer
 
 * 🌍  I'm based in Indonesia
 
