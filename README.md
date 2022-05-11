@@ -1,11 +1,9 @@
 <img src="https://github.com/AvinFajarF/AvinFajarF/blob/main/7SvE.gif">
 <h2>Hi 👋 My name is Avin Fajar</h2>
 
-____________________________
-
 <h4>Back End Devoloper</h4>
 
---------
+____________________________
 
 a child who aspires to become a CyberSecurity Engineer
 
