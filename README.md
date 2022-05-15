@@ -15,7 +15,7 @@ a child who aspires to become a CyberSecurity Engineer
 
 * 🤝  I'm open to collaborating on Interesting project
 
-<a href="https://www.twitter.com/Avin Fajar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Avin Fajar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/AvinFajar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Avin Fajar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <a href="https://www.github.com/AvinFajarF" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AvinFajarF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
