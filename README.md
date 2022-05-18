@@ -1,4 +1,4 @@
-<img src="https://github.com/AvinFajarF/AvinFajarF/blob/main/Y%E2%80%99all%20should%20check%20out%20Roujin%20Z%20on%20We%20Heart%20It.gif">
+<img src="https://github.com/AvinFajarF/AvinFajarF/blob/main/original.gif">
 <h2>Hi 👋 My name is Avin Fajar</h2>
 
 <h4>Back End Devoloper and Learning Cyber Security Engginer</h4>
