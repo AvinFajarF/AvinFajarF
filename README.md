@@ -13,7 +13,7 @@ a child who aspires to become a CyberSecurity Engineer
 
 * ✉️  You can contact me at [avinfajar6@gmail.com](mailto:avinfajar6@gmail.com)
 
-* 🧠  I'm learning Java Spring Boot
+* 🧠  I'm learning PHP
 
 * 🤝  I'm open to collaborating on Interesting project
 
