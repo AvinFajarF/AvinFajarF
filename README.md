@@ -1,3 +1,5 @@
+
+![Header](https://github.com/AvinFajarF/AvinFajarF/blob/main/github-header-image.png)
 <img src="https://github.com/AvinFajarF/AvinFajarF/blob/main/original.gif">
 <h2>Hi 👋 My name is Avin Fajar</h2>
 
