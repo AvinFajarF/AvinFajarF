@@ -1,41 +1,22 @@
-
-<img src="https://github.com/AvinFajarF/AvinFajarF/blob/main/original.gif">
-<h2>Hi 👋 My name is Avin Fajar</h2>
-
-<h4>Android Developer</h4>
-
-____________________________
-
-* 🌍  I'm based in Indonesia
-
-* ✉️  You can contact me at [avinfajar6@gmail.com](mailto:avinfajar6@gmail.com)
-
-* 🧠  I'm learning Dart
-
-* 🤝  I'm open to collaborating on Interesting project
-
-<a href="https://www.twitter.com/AvinFajar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/AvinFajar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href="https://www.github.com/AvinFajarF" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AvinFajarF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-</p>
-
-### Social
-<p align="left"> <a href="https://discord.com/users/Aexon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AvinFajarF" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Avin Fajar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+# 💫 About Me:
+ 🌍  I'm based in Indonesia<br><br> ✉️  You can contact me at avinfajar6@gmail.com<br><br> 🧠  I'm learning Dart<br><br> 🤝  I'm open to collaborating on Interesting project
 
 
-### Badges
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Fajar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TRaexon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aexon_9) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AvinFajar) 
 
-<b>My GitHub Stats</b>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AvinFajarF&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AvinFajarF&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinFajarF&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/AvinFajarF"><img src="https://github-readme-stats.vercel.app/api?username=AvinFajarF&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AvinFajarF's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AvinFajarF&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/AvinFajarF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AvinFajarF&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<a href="http://www.github.com/AvinFajarF"><img src="https://activity-graph.herokuapp.com/graph?username=AvinFajarF&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+---
+[![](https://visitcount.itsvg.in/api?id=AvinFajarF&icon=0&color=0)](https://visitcount.itsvg.in)
