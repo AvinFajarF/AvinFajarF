@@ -1,3 +1,5 @@
+<img src='https://github.com/AvinFajarF/AvinFajarF/blob/main/original.gif'>
+
 # 💫 About Me:
  🌍  I'm based in Indonesia<br><br> ✉️  You can contact me at avinfajar6@gmail.com<br><br> 🧠  I'm learning Dart<br><br> 🤝  I'm open to collaborating on Interesting project
 
